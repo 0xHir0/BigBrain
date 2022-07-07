@@ -1,0 +1,27 @@
+{
+  "name": "bigbrain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrossChain-Software/BigBrain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrossChain-Software/BigBrain/issues"
+  },
+  "homepage": "https://github.com/CrossChain-Software/BigBrain#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "solc": "^0.8.11"
+  }
+}
